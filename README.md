@@ -1,7 +1,7 @@
 # 👋 Alpesh Solanki
 Senior Software & Magento Developer | 10+ Years Experience
 
-## 🌐 Live Websites / Projects
+## 🌐 Websites / Projects
 
 ### Magento 2 – E-commerce
 - **Titan Eye Plus**  
