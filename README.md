@@ -5,64 +5,64 @@ Senior Software & Magento Developer | 10+ Years Experience
 
 ### Magento 2 – E-commerce
 - **Titan Eye Plus**  
-  🔗 https://www.titaneyeplus.com/
+  🔗 https://www.titaneyeplus.com/  
   Role: Senior Magento Developer
 
 - **Fastrack Eyewear**  
-  🔗 https://www.fastrackeyewear.com/
+  🔗 https://www.fastrackeyewear.com/  
   Role: Senior Magento Developer
 
-- **Bajaj Finserv B-Mall**
-  🔗 https://www.bajajfinserv.in/bmall
+- **Bajaj Finserv B-Mall**  
+  🔗 https://www.bajajfinserv.in/bmall  
   Role: Senior Magento Developer
 
-- **Viners UK**
-  🔗 https://www.viners.co.uk/
+- **Viners UK**  
+  🔗 https://www.viners.co.uk/  
   Role: Senior Magento Developer
 
-- **Happy Little Soles (UK)**
-  🔗 https://www.happylittlesoles.co.uk/
+- **Happy Little Soles (UK)**  
+  🔗 https://www.happylittlesoles.co.uk/  
   Role: Senior Magento Developer
 
-- **Les Coyotes de Paris**
-  🔗 https://www.lescoyotesdeparis.com/
+- **Les Coyotes de Paris**  
+  🔗 https://www.lescoyotesdeparis.com/  
   Role: Senior Magento Developer
 
-- **JFH Horticultural**
-  🔗 https://www.jfhhorticultural.com/
+- **JFH Horticultural**  
+  🔗 https://www.jfhhorticultural.com/  
   Role: Senior Magento Developer
 
-- **Ava Exchange Clinical supplies**
-  🔗 https://ava-exchange.com/
+- **Ava Exchange Clinical supplies**  
+  🔗 https://ava-exchange.com/  
   Role: Senior Magento Developer
 
-- **JHM Butt & Co Limited**
-  🔗 https://www.jhmbuttco.com/
+- **JHM Butt & Co Limited**  
+  🔗 https://www.jhmbuttco.com/  
   Role: Senior Magento Developer
 
 ### Magento 1 – E-commerce
-- **Rosefield Watches**
-  🔗 https://www.rosefieldwatches.com/
+- **Rosefield Watches**  
+  🔗 https://www.rosefieldwatches.com/  
   Role: Jr. Magento Developer
 
-- **Willow & Hall**
-  🔗 https://www.willowandhall.co.uk/
+- **Willow & Hall**  
+  🔗 https://www.willowandhall.co.uk/  
   Role: Senior Magento Developer
 
-- **Choice Stationery**
-  🔗 https://www.choicestationery.com/
+- **Choice Stationery**  
+  🔗 https://www.choicestationery.com/  
   Role: Senior Magento Developer
 
-- **Cakeweb**
-  🔗 https://cakeweb.in/
+- **Cakeweb**  
+  🔗 https://cakeweb.in/  
   Role: Jr. Magento Developer
 
-- **Somamed Parts**
-  🔗 http://www.somamedparts.com/
+- **Somamed Parts**  
+  🔗 http://www.somamedparts.com/  
   Role: Jr. Magento Developer
 
-- **JHM Butt & Co Limited**
-  🔗 https://www.jhmbuttco.com/
+- **JHM Butt & Co Limited**  
+  🔗 https://www.jhmbuttco.com/  
   Role: Senior Magento Developer
 
 ### Core PHP / Web Applications
@@ -70,35 +70,35 @@ Senior Software & Magento Developer | 10+ Years Experience
   Role: Php Developer
 
 - **Chatkazz - Food order site**  
-  🔗 http://chatkazz.com/demo/
+  🔗 http://chatkazz.com/demo/  
   Role: Php Developer
 
 - **All Indian Artist**  
-  🔗 http://allindianartist.com/
+  🔗 http://allindianartist.com/  
   Role: Php Developer
 
 - **IndieDelights**  
-  🔗 http://indiedelights.com/order/
+  🔗 http://indiedelights.com/order/  
   Role: Php Developer
 
 - **Qualtrendz**  
-  🔗 https://www.qualtrendz.com/
+  🔗 https://www.qualtrendz.com/  
   Role: Php Developer
 
 - **Healthmb**  
-  🔗 http://healthmb.com/
+  🔗 http://healthmb.com/  
   Role: Php Developer
 
 - **Varsha Industries**  
-  🔗 http://www.varshaindustries.co.in/
+  🔗 http://www.varshaindustries.co.in/  
   Role: Php Developer
 
 - **Chashma Wala**  
-  🔗 http://chashma-wala.com/
+  🔗 http://chashma-wala.com/  
   Role: Php Developer
 
 - **Foongry**  
-  🔗 http://foongry.com/
+  🔗 http://foongry.com/  
   Role: Php Developer
 
 
