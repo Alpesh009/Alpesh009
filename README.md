@@ -40,8 +40,6 @@ Senior Software & Magento Developer | 10+ Years Experience
   🔗 https://www.jhmbuttco.com/
   Role: Senior Magento Developer
 
-=======================================
-
 ### Magento 1 – E-commerce
 - **Rosefield Watches**
   🔗 https://www.rosefieldwatches.com/
@@ -67,7 +65,6 @@ Senior Software & Magento Developer | 10+ Years Experience
   🔗 https://www.jhmbuttco.com/
   Role: Senior Magento Developer
 
-=====================================
 ### Core PHP / Web Applications
 - **School Management System (Back-End Software)**  
   Role: Php Developer
