@@ -103,7 +103,7 @@ Senior Software & Magento Developer | 10+ Years Experience
 
 
 ## 🛠 Skills Used Across Projects
-Magento 1 & 2 | PHP | MySQL | REST APIs | GraphQL | Redis | AWS
+Magento 1 & 2 | PHP | Python |MySQL | REST APIs | GraphQL | Redis | AI Tech
 
 ## 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/solanki-alpesh-41aa4584/
